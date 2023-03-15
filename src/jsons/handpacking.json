@@ -1,0 +1,56 @@
+[
+  {
+    "": "",
+    "MACHINES": "HP4",
+    "avg_production_speed": "-",
+    "num_employees": "-"
+  },
+  {
+    "": "",
+    "MACHINES": "HP5",
+    "avg_production_speed": "0.375",
+    "num_employees": 10
+  },
+  {
+    "": "",
+    "MACHINES": "HP6",
+    "avg_production_speed": "0.04527",
+    "num_employees": 10
+  },
+  {
+    "": "",
+    "MACHINES": "HP-M1",
+    "avg_production_speed": "0.19011",
+    "num_employees": 4
+  },
+  {
+    "": "",
+    "MACHINES": "HP-M2",
+    "avg_production_speed": "0.09645-0.07251-0.05543",
+    "num_employees": 8
+  },
+  {
+    "": "",
+    "MACHINES": "HP-M3",
+    "avg_production_speed": "0.23094",
+    "num_employees": 8
+  },
+  {
+    "": "",
+    "MACHINES": "HP-M4",
+    "avg_production_speed": "0.05882",
+    "num_employees": 3
+  },
+  {
+    "": "",
+    "MACHINES": "HP-M5",
+    "avg_production_speed": "0.17844",
+    "num_employees": 5
+  },
+  {
+    "": "",
+    "MACHINES": "HP-M6",
+    "avg_production_speed": "0.14925",
+    "num_employees": 5
+  }
+]

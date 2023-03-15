@@ -1,0 +1,290 @@
+[
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D1",
+    "avg_production_speed": "0.45146",
+    "num_employees": 4,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "L",
+    "MACHINES": "D1",
+    "avg_production_speed": "0.45146",
+    "num_employees": 4,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D2",
+    "avg_production_speed": "0.86580",
+    "num_employees": 4,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "S",
+    "MACHINES": "D2",
+    "avg_production_speed": "0.86580",
+    "num_employees": 4,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D3",
+    "avg_production_speed": "0.86580",
+    "num_employees": 4,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "S",
+    "MACHINES": "D3",
+    "avg_production_speed": "0.86580",
+    "num_employees": 4,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D4",
+    "avg_production_speed": "0.68961",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "S",
+    "MACHINES": "D4",
+    "avg_production_speed": "0.68961",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D5",
+    "avg_production_speed": "0.63379",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "S",
+    "MACHINES": "D5",
+    "avg_production_speed": "0.63379",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D6",
+    "avg_production_speed": "0.50890",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "S",
+    "MACHINES": "D6",
+    "avg_production_speed": "0.50890",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "L",
+    "MACHINES": "D7",
+    "avg_production_speed": "0.72727",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D7",
+    "avg_production_speed": "0.72727",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "S",
+    "MACHINES": "D7",
+    "avg_production_speed": "0.72727",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D8",
+    "avg_production_speed": "0.41667",
+    "num_employees": 4,
+    "mix_link": "Y"
+  },
+  {
+    "": "",
+    "Size": "L",
+    "MACHINES": "D8",
+    "avg_production_speed": "0.41667",
+    "num_employees": 4,
+    "mix_link": "Y"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D10",
+    "avg_production_speed": "0.49140",
+    "num_employees": 4,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "S",
+    "MACHINES": "D10",
+    "avg_production_speed": "0.49141",
+    "num_employees": 4,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "L",
+    "MACHINES": "D10",
+    "avg_production_speed": "0.49142",
+    "num_employees": 4,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "S",
+    "MACHINES": "D11",
+    "avg_production_speed": "",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D11",
+    "avg_production_speed": "",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D13",
+    "avg_production_speed": "0.46572",
+    "num_employees": 6,
+    "mix_link": "B"
+  },
+  {
+    "": "",
+    "Size": "L",
+    "MACHINES": "D13",
+    "avg_production_speed": "0.46572",
+    "num_employees": 6,
+    "mix_link": "B"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D14",
+    "avg_production_speed": "0.41067",
+    "num_employees": 5,
+    "mix_link": "Y"
+  },
+  {
+    "": "",
+    "Size": "L",
+    "MACHINES": "D14",
+    "avg_production_speed": "0.41067",
+    "num_employees": 5,
+    "mix_link": "Y"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D15",
+    "avg_production_speed": "0.46572",
+    "num_employees": 6,
+    "mix_link": "B"
+  },
+  {
+    "": "",
+    "Size": "L",
+    "MACHINES": "D15",
+    "avg_production_speed": "0.46572",
+    "num_employees": 6,
+    "mix_link": "B"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D16",
+    "avg_production_speed": "0.41067",
+    "num_employees": 5,
+    "mix_link": "Y"
+  },
+  {
+    "": "",
+    "Size": "L",
+    "MACHINES": "D16",
+    "avg_production_speed": "0.41067",
+    "num_employees": 5,
+    "mix_link": "Y"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D19",
+    "avg_production_speed": "",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "S",
+    "MACHINES": "D19",
+    "avg_production_speed": "",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D20",
+    "avg_production_speed": "0.56479",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "S",
+    "MACHINES": "D20",
+    "avg_production_speed": "0.56479",
+    "num_employees": 5,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "M",
+    "MACHINES": "D22",
+    "avg_production_speed": "0.45558",
+    "num_employees": 8,
+    "mix_link": "N"
+  },
+  {
+    "": "",
+    "Size": "S",
+    "MACHINES": "D22",
+    "avg_production_speed": "0.45558",
+    "num_employees": 8,
+    "mix_link": "N"
+  }
+]

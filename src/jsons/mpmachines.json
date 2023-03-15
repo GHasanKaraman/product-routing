@@ -1,0 +1,32 @@
+[
+  {
+    "": "",
+    "MACHINES": "D17",
+    "avg_production_speed": "0.23215",
+    "num_employees": 6
+  },
+  {
+    "": "",
+    "MACHINES": "D18",
+    "avg_production_speed": "0.18559",
+    "num_employees": 6
+  },
+  {
+    "": "",
+    "MACHINES": "D12",
+    "avg_production_speed": "0.19703",
+    "num_employees": 9
+  },
+  {
+    "": "",
+    "MACHINES": "D21",
+    "avg_production_speed": "0.16462",
+    "num_employees": 7
+  },
+  {
+    "": "",
+    "MACHINES": "D23",
+    "avg_production_speed": "0.19719",
+    "num_employees": 9
+  }
+]

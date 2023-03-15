@@ -1,0 +1,37 @@
+[
+  {
+    "": "",
+    "MACHINES": "MAC-J1",
+    "Types": "Sq Jar",
+    "avg_production_speed": "0.2235",
+    "num_employees": 5
+  },
+  {
+    "": "",
+    "MACHINES": "MAC-J2",
+    "Types": "Sq Jar",
+    "avg_production_speed": "0.2273",
+    "num_employees": 5
+  },
+  {
+    "": "",
+    "MACHINES": "MAC-J3",
+    "Types": "Med Jar",
+    "avg_production_speed": "0.8406",
+    "num_employees": 6
+  },
+  {
+    "": "",
+    "MACHINES": "MAC-J4",
+    "Types": "Med Jar",
+    "avg_production_speed": "0.4613",
+    "num_employees": 5
+  },
+  {
+    "": "",
+    "MACHINES": "MAC-J5",
+    "Types": "Sq Jar",
+    "avg_production_speed": "0.56158",
+    "num_employees": 11
+  }
+]

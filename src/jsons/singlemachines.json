@@ -1,0 +1,92 @@
+[
+  {
+    "": "",
+    "MACHINES": "P01",
+    "avg_production_speed": "4.9751",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P02",
+    "avg_production_speed": "1.5613",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P03",
+    "avg_production_speed": "1.5613",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P04",
+    "avg_production_speed": "1.6697",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P05",
+    "avg_production_speed": "1.6044",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P06",
+    "avg_production_speed": "1.2382",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P07",
+    "avg_production_speed": "0.4643",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P10",
+    "avg_production_speed": "0.9638",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P12",
+    "avg_production_speed": "4.5126",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P13",
+    "avg_production_speed": "4.6948",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P14",
+    "avg_production_speed": "2.9171",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P15",
+    "avg_production_speed": "1.6031",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P16",
+    "avg_production_speed": "1.6031",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P17",
+    "avg_production_speed": "1.6472",
+    "num_employees": 1
+  },
+  {
+    "": "",
+    "MACHINES": "P18",
+    "avg_production_speed": "1.6472",
+    "num_employees": 1
+  }
+]
